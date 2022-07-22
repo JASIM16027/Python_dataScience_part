@@ -1,0 +1,22 @@
+{
+  "Student": [
+    {
+      "name": "Jasim",
+      "university": "Mbstu",
+      "Dept": "CSE",
+      "year": "2015-16"
+    },
+    {
+      "name": "Jewel",
+      "university": "Mbstu",
+      "Dept": "CSE",
+      "year": "2015-16"
+    },
+    {
+      "name": "Shanto",
+      "university": "Mbstu",
+      "Dept": "CSE",
+      "year": "2015-16"
+    }
+  ]
+}
